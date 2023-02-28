@@ -1,3 +1,9 @@
+/*
+Taken from
+https://github.com/qmk/qmk_firmware/blob/master/quantum/keymap_extras/keymap_german.h,
+released under the GPL-2.0 license and modified to work with Mechy (S(...) replaced with LSFT(...))
+*/
+
 #define DE_CIRC KC_GRV         // ^ (dead)
 #define DE_1 KC_1              // 1
 #define DE_2 KC_2              // 2
